@@ -1,0 +1,310 @@
+# Project definitions (do not edit)
+Task: jaw_tongue_test
+scorer: Emilio
+date: Jun30
+
+# Project path (change when moving around)
+project_path: C:\Users\Jun\Code\jaw_tongue_test-Emilio-2020-06-30
+
+# Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH100\20200321\10439\JH100_20200321_10439_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH100\20200322\122125\JH100_20200322_122125_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH100\20200322\122638\JH100_20200322_122638_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH100\20200323\9576\JH100_20200323_9576_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH100\20200324\103913\JH100_20200324_103913_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH100\20200325\9028\JH100_20200325_9028_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH100\20200325\91554\JH100_20200325_91554_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200321\113321\JH101_20200321_113321_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200321\113713\JH101_20200321_113713_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200322\133520\JH101_20200322_133520_trial_10.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200323\115354\JH101_20200323_115354_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200324\12355\JH101_20200324_12355_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200325\11312\JH101_20200325_11312_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200326\04543\JH101_20200326_04543_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200326\115457\JH101_20200326_115457_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH101\20200326\121042\JH101_20200326_121042_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH102\20200321\134817\JH102_20200321_134817_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH102\20200322\163313\JH102_20200322_163313_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH102\20200323\1473\JH102_20200323_1473_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH102\20200324\142946\JH102_20200324_142946_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH102\20200325\133330\JH102_20200325_133330_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH102\20200325\135551\JH102_20200325_135551_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH103\20200321\15335\JH103_20200321_15335_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH103\20200322\173044\JH103_20200322_173044_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH103\20200323\153328\JH103_20200323_153328_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH103\20200324\155116\JH103_20200324_155116_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH103\20200325\15119\JH103_20200325_15119_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH103\20200325\153443\JH103_20200325_153443_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH103\20200325\1554\JH103_20200325_1554_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200609\105632\JH104_20200609_105632_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200610\193325\JH104_20200610_193325_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200611\161444\JH104_20200611_161444_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200612\14422\JH104_20200612_14422_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200613\14036\JH104_20200613_14036_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200614\165042\JH104_20200614_165042_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200615\135826\JH104_20200615_135826_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200616\172417\JH104_20200616_172417_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200617\184251\JH104_20200617_184251_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200617\195137\JH104_20200617_195137_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200617\1967\JH104_20200617_1967_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200618\125019\JH104_20200618_125019_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH104\20200618\131020\JH104_20200618_131020_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200602\153954\JH105_20200602_153954_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200603\14924\JH105_20200603_14924_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200604\153838\JH105_20200604_153838_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200605\161947\JH105_20200605_161947_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200606\13221\JH105_20200606_13221_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200607\165229\JH105_20200607_165229_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200608\91121\JH105_20200608_91121_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200609\152427\JH105_20200609_152427_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200609\174422\JH105_20200609_174422_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200610\114933\JH105_20200610_114933_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH105\20200610\12722\JH105_20200610_12722_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200602\165139\JH107_20200602_165139_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200603\154114\JH107_20200603_154114_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200604\164852\JH107_20200604_164852_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200605\173917\JH107_20200605_173917_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200606\15100\JH107_20200606_15100_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200607\181557\JH107_20200607_181557_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200608\111556\JH107_20200608_111556_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200609\154712\JH107_20200609_154712_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200609\154857\JH107_20200609_154857_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200610\13158\JH107_20200610_13158_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH107\20200610\132918\JH107_20200610_132918_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200602\185414\JH110_20200602_185414_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200603\16552\JH110_20200603_16552_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200604\195218\JH110_20200604_195218_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200605\194456\JH110_20200605_194456_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200606\17146\JH110_20200606_17146_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200607\19535\JH110_20200607_19535_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200608\131428\JH110_20200608_131428_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200609\211349\JH110_20200609_211349_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200610\152021\JH110_20200610_152021_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH110\20200610\153937\JH110_20200610_153937_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200602\201751\JH111_20200602_201751_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200603\181458\JH111_20200603_181458_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200603\181840\JH111_20200603_181840_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200603\182420\JH111_20200603_182420_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200603\183150\JH111_20200603_183150_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200603\183914\JH111_20200603_183914_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200603\184419\JH111_20200603_184419_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200604\22450\JH111_20200604_22450_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200605\232257\JH111_20200605_232257_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200606\19914\JH111_20200606_19914_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200607\203620\JH111_20200607_203620_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200608\154330\JH111_20200608_154330_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200609\232519\JH111_20200609_232519_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200610\165457\JH111_20200610_165457_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200610\165832\JH111_20200610_165832_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200610\17342\JH111_20200610_17342_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200610\17552\JH111_20200610_17552_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200610\17756\JH111_20200610_17756_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH111\20200610\17922\JH111_20200610_17922_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200511\161452\JH114_20200511_161452_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200512\15333\JH114_20200512_15333_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200513\151424\JH114_20200513_151424_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200513\152119\JH114_20200513_152119_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200513\153051\JH114_20200513_153051_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200513\15414\JH114_20200513_15414_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200514\15739\JH114_20200514_15739_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200515\15924\JH114_20200515_15924_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200518\152956\JH114_20200518_152956_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200519\15656\JH114_20200519_15656_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200520\164435\JH114_20200520_164435_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH114\20200520\173237\JH114_20200520_173237_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200511\174313\JH115_20200511_174313_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200512\17243\JH115_20200512_17243_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200513\164450\JH115_20200513_164450_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200514\154032\JH115_20200514_154032_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200515\17025\JH115_20200515_17025_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200518\16233\JH115_20200518_16233_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200519\163510\JH115_20200519_163510_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200520\18941\JH115_20200520_18941_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200522\152458\JH115_20200522_152458_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH115\20200522\1567\JH115_20200522_1567_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200511\185642\JH116_20200511_185642_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200511\191023\JH116_20200511_191023_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200512\191457\JH116_20200512_191457_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200513\19510\JH116_20200513_19510_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200514\195935\JH116_20200514_195935_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200515\18595\JH116_20200515_18595_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200518\17546\JH116_20200518_17546_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200519\1908\JH116_20200519_1908_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200520\191852\JH116_20200520_191852_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200522\173556\JH116_20200522_173556_trial_1.avi:
+    crop: 0, 256, 0, 256
+  \\sv1files.epfl.ch\Petersen-Lab\analysis\Jun_Huang\Film\JH116\20200522\175716\JH116_20200522_175716_trial_1.avi:
+    crop: 0, 256, 0, 256
+bodyparts:
+- spout
+- jaw
+- snout
+- tongue
+- paw
+
+start: 0
+stop: 1
+numframes2pick: 16
+
+# Plotting configuration
+skeleton:
+- - spout
+- - jaw
+- - snout
+- - tongue
+- - paw
+
+skeleton_color: black
+pcutoff: 0.5
+dotsize: 3
+alphavalue: 0.7
+colormap: gist_rainbow
+
+# Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.8
+iteration: 0
+resnet: 50
+snapshotindex: -1
+batch_size: 8
+
+# Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+#if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+# Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+default_net_type: resnet_50
+default_augmenter: default
